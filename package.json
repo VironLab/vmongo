@@ -1,0 +1,29 @@
+{
+    "name": "vmongo",
+    "version": "0.0.1",
+    "description": "vmongo is a simple and easy to use nodejs mongodb wrapper",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/VironLab/vmongo.git"
+    },
+    "keywords": [
+        "mongodb",
+        "node-mongodb",
+        "mongodb-wrapper",
+        "database",
+        "vmongo"
+    ],
+    "author": {
+        "name": "VironLab",
+        "url": "https://vironlab.eu/"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/VironLab/vmongo/issues"
+    },
+    "homepage": "https://vironlab.eu/projects/vmongo"
+}
